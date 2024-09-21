@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "id": "db63",
+      "personNm": "akshat",
+      "place": "knp",
+      "department": "btech"
+    }
+  ],
+  "auth": [
+    {
+      "id": "09fd",
+      "name": "akshat",
+      "email": "akshat@gmail.com"
+    },
+    {
+      "id": "9fbd",
+      "name": "saag",
+      "email": "www.akshatagarwal1kj@gmail.com"
+    },
+    {
+      "id": "7b0a",
+      "name": "a",
+      "email": "a@gmail.com"
+    }
+  ]
+}
